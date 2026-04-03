@@ -1,9 +1,9 @@
 package number;
 
-public class Myclass {
+public class Main2 {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("Inside Main2");
 
 	}
 
